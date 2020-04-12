@@ -1,0 +1,4 @@
+printf("hello %s\n", "Ariel"hello Ariel
+)                    = 12
++++ exited (status 0) +++
+
